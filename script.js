@@ -100,7 +100,7 @@ function attachEvents() {
             const fileName = btn.getAttribute('data-file');
             if (fileName) {
                 showToast(`✅ Загрузка ${fileName} началась...`);
-                window.location.href = `https://raw.githubusercontent.com/TopFreeCheats/website/main/${fileName}`;
+                window.location.href = `https://raw.githubusercontent.com/TopFreeCheats/websit/main/${fileName}`;
             } else {
                 showToast(`❌ Ошибка: файл не найден`);
             }
