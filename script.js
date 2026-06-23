@@ -1,6 +1,6 @@
 const cheatsRaw = [
     { name: "Everything", displayName: "Everything", banner: "https://www.voidtools.com/support/everything", icon: "https://www.chip.de/ii/1/2/6/3/4/2/6/2/3/logo-9ab6fbee042d074e.jpg", zipFile: "Everething.zip", desc_ru: "Быстрый поиск по системе", fileType: ".exe", lastUpdate: "12.05.2026" },
-    { name: "Shellbag", displayName: "Shellbag", banner: "https://privazer.com/images/privazer-logo-name.jpg", icon: "https://i.ytimg.com/vi/VXwlVVG2_i0/hqdefault.jpg", zipFile: "Shellbag.zip", desc_ru: "Cмотреть удалённые файлы", fileType: ".exe", lastUpdate: "12.05.2026" },
+    { name: "ShellBag", displayName: "ShellBag", banner: "https://privazer.com/images/privazer-logo-name.jpg", icon: "https://i.ytimg.com/vi/VXwlVVG2_i0/hqdefault.jpg", zipFile: "ShellBag.zip", desc_ru: "Cмотреть удалённые файлы", fileType: ".exe", lastUpdate: "12.05.2026" },
 ];
 
 function formatNumberShort(num) {
